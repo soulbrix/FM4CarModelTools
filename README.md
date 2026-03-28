@@ -1,4 +1,4 @@
-# FM4 Car Part Import App
+# FM4 Car Model Tools
 
 A standalone Tkinter tool for exporting **Forza Motorsport 4** `.carbin` model sections to Wavefront OBJ, editing them in Blender, and importing them back into the game file.
 
